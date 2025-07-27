@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <math.h>
 
-// If someone reads this IM SORRY (cluster f### to debug, f### ton of if, else if, else statements)
+// If someone reads this IM SORRY (cluster f### to debug, f### ton of if, else if, else statements.)
 
 int main(){
     int age = 0;
