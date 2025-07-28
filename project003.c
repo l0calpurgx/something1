@@ -3,9 +3,10 @@
 #include <stdbool.h>
 #include <math.h>
 
-// If someone reads this IM SORRY (cluster f### to debug, f### ton of if, else if, else statements.)
+// If someone reads this IM SORRY (cluster fuck to debug, fuck ton of if, else if, else statements)
 
 int main(){
+    // Variables
     int age = 0;
     char name[50] = "";
     char study[50] = "";
@@ -18,6 +19,7 @@ int main(){
     char DoUstudy = '\0';
     char DoUwork = '\0';
 
+    // Start
     printf("To start this survey, enter your age: ");
     scanf(" %d", &age);
     if(age > 16){
@@ -141,3 +143,4 @@ int main(){
     }
     return 0;
 }
+// Honestly, this is a cluster, idk how it works.
